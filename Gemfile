@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem "pry"
+gem "pry-doc"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
